@@ -169,7 +169,7 @@ me.say_hi()
 ### 🐍 My Contributions Eaten by a Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </picture>
@@ -182,5 +182,5 @@ me.say_hi()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — If you like my work, consider giving a star!</i>
+  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">nahomgebre57</a> — If you like my work, consider giving a star!</i>
 </div>
