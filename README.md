@@ -12,8 +12,8 @@
 
 <!-- Profile Views + Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=nahomgebre57&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/nahomgebre57?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
 </p>
 
 </div>
@@ -25,7 +25,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Nahom Gebre"
         self.role        = ["Full-Stack Developer", "Mobile Engineer", "ML Engineer"]
         self.stack       = {
             "frontend"  : ["React", "Next.js", "JavaScript", "HTML/CSS"],
@@ -105,14 +105,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahomgebre57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomgebre57&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nahomgebre57&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,7 +122,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahomgebre57&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,7 +132,7 @@ me.say_hi()
 
 <div align="center">
 
-[![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![nahomgebre57's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahomgebre57&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -142,8 +142,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomgebre57&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/nahomgebre57/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomgebre57&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/nahomgebre57/YOUR_REPO_2)
 
 </div>
 
@@ -153,11 +153,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomgebre73)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nahom-portfolio-nine.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomgebre73@gmail.com)
 
 </div>
 
@@ -170,8 +168,8 @@ me.say_hi()
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -182,5 +180,5 @@ me.say_hi()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">nahomgebre57</a> — If you like my work, consider giving a star!</i>
+  <i>⭐ From <a href="https://github.com/nahomgebre57">nahomgebre57</a> — If you like my work, consider giving a star!</i>
 </div>
