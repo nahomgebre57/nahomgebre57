@@ -126,17 +126,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![nahomgebre57's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahomgebre57&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
