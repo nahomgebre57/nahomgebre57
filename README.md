@@ -127,15 +127,6 @@ me.say_hi()
 </div>
 
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomgebre57&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/nahomgebre57/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomgebre57&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=a0aec0)](https://github.com/nahomgebre57/YOUR_REPO_2)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -145,21 +136,6 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomgebre73)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nahom-portfolio-nine.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomgebre73@gmail.com)
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-### 🐍 My Contributions Eaten by a Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nahomgebre57/nahomgebre57/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
